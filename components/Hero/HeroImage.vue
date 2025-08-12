@@ -1,6 +1,6 @@
 <template>
   <!-- Add top-bottom spacing with no horizontal padding -->
-  <v-container class="pt-10 pb-10 px-0" fluid>
+  <v-container class="pt-10 pb-10 px-0 mt-20" fluid >
     <!-- Full width image with no border-radius -->
     <v-img
       src="/web3.png"
