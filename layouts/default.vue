@@ -5,9 +5,9 @@
 
     <!-- Page content will appear here -->
     <v-main>
-      <v-container>
+      <!-- <v-container class="pa-0 ma-0"> -->
         <slot />
-      </v-container>
+      <!-- </v-container> -->
     </v-main>
   </v-layout>
 </template>

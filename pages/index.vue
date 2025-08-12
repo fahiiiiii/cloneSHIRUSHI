@@ -1,6 +1,11 @@
 <template>
     <div>
+        <Title>
+        Web3
+    </Title>
         <HeroImage />
+        <HeroSection />
+        
     </div>
 </template>
 
